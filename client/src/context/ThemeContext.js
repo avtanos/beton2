@@ -6,7 +6,7 @@ const STORAGE_KEY = 'tunduk-theme';
 
 export function ThemeProvider({ children }) {
   const [theme, setTheme] = useState(() => {
-    return localStorage.getItem(STORAGE_KEY) || 'dark';
+    return localStorage.getItem(STORAGE_KEY) || 'light';
   });
 
   useLayoutEffect(() => {
