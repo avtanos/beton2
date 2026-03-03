@@ -1,0 +1,28 @@
+[
+  {
+    "id": "zp-1",
+    "productType": "ФБС",
+    "productSize": "24-6-6",
+    "quantity": 10,
+    "armoCarcassIds": ["ac-1"],
+    "concreteBatchIds": ["rb-5"],
+    "date": "2026-03-02",
+    "shift": 2,
+    "formId": "F1",
+    "status": "produced",
+    "createdAt": "2026-03-02T18:00:00.000Z"
+  },
+  {
+    "id": "zp-2",
+    "productType": "ФБС",
+    "productSize": "12-6-6",
+    "quantity": 20,
+    "armoCarcassIds": ["ac-3"],
+    "concreteBatchIds": [],
+    "date": "2026-03-01",
+    "shift": 1,
+    "formId": "F2",
+    "status": "produced",
+    "createdAt": "2026-03-01T15:00:00.000Z"
+  }
+]

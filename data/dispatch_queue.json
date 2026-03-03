@@ -1,0 +1,6 @@
+[
+  { "id": "dq-1", "vehicleNumber": "01KG123AB", "orderId": "ob-1", "position": 1, "status": "loaded", "arrivedAt": "2026-03-03T08:10:00.000Z", "loadedAt": "2026-03-03T08:45:00.000Z" },
+  { "id": "dq-2", "vehicleNumber": "01KG456CD", "orderId": "ob-2", "position": 2, "status": "loaded", "arrivedAt": "2026-03-03T09:25:00.000Z", "loadedAt": "2026-03-03T10:00:00.000Z" },
+  { "id": "dq-3", "vehicleNumber": "01KG888HH", "orderId": "ob-1", "position": 3, "status": "waiting", "arrivedAt": "2026-03-03T11:30:00.000Z" },
+  { "id": "dq-4", "vehicleNumber": "02KG111AA", "orderId": "ob-4", "position": 4, "status": "waiting", "arrivedAt": "2026-03-03T11:55:00.000Z" }
+]

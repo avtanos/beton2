@@ -1,0 +1,4 @@
+[
+  { "id": "sm-1", "weight": 85, "date": "2026-02-28", "disposition": "sale", "revenue": 4250, "documentRef": "Накладная на лом №12", "createdAt": "2026-02-28T16:00:00.000Z" },
+  { "id": "sm-2", "weight": 42, "date": "2026-03-02", "disposition": "disposal", "revenue": 0, "documentRef": "Акт утилизации №5", "createdAt": "2026-03-02T11:00:00.000Z" }
+]

@@ -1,0 +1,5 @@
+[
+  { "id": "ws-1", "name": "Подшипник дробилки", "article": "ПД-200", "quantity": 2, "unit": "шт", "type": "receipt", "date": "2026-02-28", "documentRef": "Накладная №45", "createdAt": "2026-02-28T10:00:00.000Z" },
+  { "id": "ws-2", "name": "Ремень клиновой", "article": "РК-320", "quantity": 5, "unit": "шт", "type": "receipt", "date": "2026-03-01", "documentRef": "Накладная №48", "createdAt": "2026-03-01T09:00:00.000Z" },
+  { "id": "ws-3", "name": "Фильтр масляный", "article": "ФМ-105", "quantity": 3, "unit": "шт", "type": "receipt", "date": "2026-02-25", "documentRef": "Накладная №42", "createdAt": "2026-02-25T14:00:00.000Z" }
+]

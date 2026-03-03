@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cl-1",
+    "date": "2026-03-03",
+    "shift": 1,
+    "operatingHours": 6.5,
+    "output510": 45,
+    "output2040": 80,
+    "outputScreening": 15,
+    "downtime": 0.5,
+    "notes": "Плановый осмотр",
+    "createdAt": "2026-03-03T14:00:00.000Z"
+  },
+  {
+    "id": "cl-2",
+    "date": "2026-03-02",
+    "shift": 1,
+    "operatingHours": 8,
+    "output510": 55,
+    "output2040": 95,
+    "outputScreening": 20,
+    "downtime": 0,
+    "notes": "",
+    "createdAt": "2026-03-02T16:00:00.000Z"
+  }
+]

@@ -1,0 +1,4 @@
+[
+  { "id": "cr-1", "vehicleNumber": "01KG555XX", "volume": 2, "mark": "М200", "disposition": "zbi", "date": "2026-02-25", "decisionBy": "Технолог М.М.", "notes": "Доставка отменена клиентом", "createdAt": "2026-02-25T14:30:00.000Z" },
+  { "id": "cr-2", "vehicleNumber": "02KG333YY", "volume": 1, "mark": "М300", "disposition": "disposal", "date": "2026-03-02", "decisionBy": "Диспетчер", "notes": "Излишек", "createdAt": "2026-03-02T16:00:00.000Z" }
+]

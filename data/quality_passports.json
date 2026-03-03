@@ -1,0 +1,5 @@
+[
+  { "id": "qp-1", "batchId": "rb-1", "orderId": "ob-1", "mark": "М350", "slumpTest": 12, "cubeStrength7": 22.5, "cubeStrength28": 35.2, "date": "2026-03-03", "labAssistant": "Лаборант Нур", "status": "issued", "createdAt": "2026-03-03T10:40:00.000Z" },
+  { "id": "qp-2", "batchId": "rb-3", "orderId": "ob-2", "mark": "М300", "slumpTest": 10, "cubeStrength7": 20.1, "cubeStrength28": 30.5, "date": "2026-03-02", "labAssistant": "Лаборант Нур", "status": "issued", "createdAt": "2026-03-02T16:10:00.000Z" },
+  { "id": "qp-3", "batchId": "rb-2", "orderId": "ob-1", "mark": "М350", "slumpTest": 11, "cubeStrength7": null, "cubeStrength28": null, "date": "2026-03-03", "labAssistant": "Лаборант Нур", "status": "draft", "createdAt": "2026-03-03T09:00:00.000Z" }
+]

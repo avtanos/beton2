@@ -1,0 +1,10 @@
+{
+  "sand": 520,
+  "screening": 180,
+  "fraction510": 420,
+  "fraction2040": 580,
+  "movements": [
+    { "id": "m1", "type": "receipt", "material": "fraction510", "quantity": 45, "date": "2026-03-02T14:00:00.000Z", "documentRef": "ТТН-101" },
+    { "id": "m2", "type": "receipt", "material": "sand", "quantity": 80, "date": "2026-03-01T10:00:00.000Z", "documentRef": "ТТН-99" }
+  ]
+}

@@ -1,0 +1,5 @@
+[
+  { "id": "ttn-1", "number": "TTN-7712", "orderId": "ob-1", "clientId": "client-1", "clientName": "ОсОО Строй-Сити", "productType": "beton", "mark": "М350", "volume": 18, "weight": 43200, "vehicleNumber": "01KG123AB", "driver": "Кулматов К.К.", "date": "2026-03-03", "weighInId": "w-1", "weighOutId": "w-2", "batchIds": ["rb-1", "rb-2"], "status": "draft", "createdAt": "2026-03-03T08:50:00.000Z" },
+  { "id": "ttn-2", "number": "TTN-7709", "orderId": "ob-2", "clientId": "client-2", "clientName": "ИП Аман", "productType": "beton", "mark": "М300", "volume": 18, "weight": 43000, "vehicleNumber": "01KG456CD", "driver": "Алтыбаев А.А.", "date": "2026-03-03", "weighInId": "w-3", "weighOutId": "w-4", "batchIds": ["rb-3", "rb-4"], "status": "blocked", "createdAt": "2026-03-03T10:05:00.000Z" },
+  { "id": "ttn-3", "number": "TTN-2026-003", "orderId": "oz-1", "clientId": "client-1", "clientName": "ОсОО Строй-Сити", "productType": "zbi", "mark": null, "volume": null, "weight": null, "vehicleNumber": "01KG789GH", "driver": "Самсонов С.В.", "date": "2026-03-01", "status": "confirmed", "createdAt": "2026-03-01T11:00:00.000Z" }
+]

@@ -1,0 +1,7 @@
+[
+  { "id": "client-1", "name": "ОсОО Строй-Сити", "inn": "123456789012", "address": "г. Бишкек, ул. Строительная, 10", "contactPerson": "Иванов И.И.", "phone": "+996 555 123456", "creditLimit": 500000, "prepaymentRequired": false, "createdAt": "2025-01-15T00:00:00.000Z" },
+  { "id": "client-2", "name": "ИП Аман", "inn": "223456789013", "address": "г. Ош, мкр. Алай, 45", "contactPerson": "Аман А.К.", "phone": "+996 772 654321", "creditLimit": 300000, "prepaymentRequired": true, "createdAt": "2025-01-20T00:00:00.000Z" },
+  { "id": "client-3", "name": "ОАО КыргызАвтоДор", "inn": "323456789014", "address": "г. Бишкек, пр. Чуй, 125", "contactPerson": "Токтоматов Т.М.", "phone": "+996 312 987654", "creditLimit": 2000000, "prepaymentRequired": false, "createdAt": "2025-02-01T00:00:00.000Z" },
+  { "id": "client-4", "name": "ЖК Нурбулак", "inn": "423456789015", "address": "Чуйская обл., с. Военно-Антоновка", "contactPerson": "Эрмекова Э.С.", "phone": "+996 555 111222", "creditLimit": 800000, "prepaymentRequired": false, "createdAt": "2025-02-10T00:00:00.000Z" },
+  { "id": "client-5", "name": "ОсОО Металл-Трейд", "inn": "523456789016", "address": "г. Бишкек, промзона", "contactPerson": "Металлов М.М.", "phone": "+996 555 333444", "creditLimit": 0, "prepaymentRequired": true, "createdAt": "2025-02-15T00:00:00.000Z" }
+]

@@ -1,0 +1,7 @@
+[
+  { "id": "ob-1", "clientId": "client-1", "clientName": "ОсОО Строй-Сити", "mark": "М350", "volume": 18, "price": 99000, "address": "г. Бишкек, ул. Строительная, 10", "status": "confirmed", "paymentChecked": true, "weightNet": 43200, "createdAt": "2026-03-03T08:00:00.000Z", "scheduledDate": "2026-03-03", "scheduledTime": "11:00" },
+  { "id": "ob-2", "clientId": "client-2", "clientName": "ИП Аман", "mark": "М300", "volume": 18, "price": 90000, "address": "г. Ош, мкр. Алай", "status": "confirmed", "paymentChecked": false, "weightNet": 43000, "createdAt": "2026-03-03T09:00:00.000Z", "scheduledDate": "2026-03-03", "scheduledTime": "10:20" },
+  { "id": "ob-3", "clientId": "client-3", "clientName": "ОАО КыргызАвтоДор", "mark": "М250", "volume": 36, "price": 172800, "address": "Автодорога Бишкек-Ош, км 25", "status": "new", "paymentChecked": true, "createdAt": "2026-03-02T14:00:00.000Z", "scheduledDate": "2026-03-04" },
+  { "id": "ob-4", "clientId": "client-1", "clientName": "ОсОО Строй-Сити", "mark": "М200", "volume": 15, "price": 67500, "address": "г. Бишкек", "status": "confirmed", "paymentChecked": true, "createdAt": "2026-03-02T10:00:00.000Z", "scheduledDate": "2026-03-03", "scheduledTime": "12:10" },
+  { "id": "ob-5", "clientId": "client-4", "clientName": "ЖК Нурбулак", "mark": "М150", "volume": 25, "price": 112500, "address": "с. Военно-Антоновка", "status": "new", "paymentChecked": true, "createdAt": "2026-03-01T11:00:00.000Z", "scheduledDate": "2026-03-05" }
+]

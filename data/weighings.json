@@ -1,0 +1,11 @@
+[
+  { "id": "w-1", "type": "tare", "vehicleNumber": "01KG123AB", "driver": "Кулматов К.К.", "weight": 12480, "tare": 12480, "date": "2026-03-03", "time": "08:15", "orderId": "ob-1", "weigher": "А. Омур", "createdAt": "2026-03-03T08:15:00.000Z" },
+  { "id": "w-2", "type": "brutto", "vehicleNumber": "01KG123AB", "driver": "Кулматов К.К.", "weight": 26910, "tare": 12480, "brutto": 26910, "netto": 14430, "date": "2026-03-03", "time": "08:45", "orderId": "ob-1", "weigher": "А. Омур", "createdAt": "2026-03-03T08:45:00.000Z" },
+  { "id": "w-3", "type": "tare", "vehicleNumber": "01KG456CD", "driver": "Алтыбаев А.А.", "weight": 12500, "tare": 12500, "date": "2026-03-03", "time": "09:30", "orderId": "ob-2", "weigher": "А. Омур", "createdAt": "2026-03-03T09:30:00.000Z" },
+  { "id": "w-4", "type": "brutto", "vehicleNumber": "01KG456CD", "driver": "Алтыбаев А.А.", "weight": 26620, "tare": 12500, "brutto": 26620, "netto": 14120, "date": "2026-03-03", "time": "10:00", "orderId": "ob-2", "weigher": "А. Омур", "createdAt": "2026-03-03T10:00:00.000Z" },
+  { "id": "w-5", "type": "receipt_inert", "vehicleNumber": "02KG789EF", "driver": "Самсонов С.В.", "weight": 25000, "date": "2026-03-02", "time": "14:00", "material": "щебень 5-20", "createdAt": "2026-03-02T14:00:00.000Z" },
+  { "id": "w-6", "type": "receipt_cement", "vehicleNumber": "99KG111ZZ", "driver": "Доставщик", "weight": 32000, "date": "2026-03-01", "time": "10:00", "material": "цемент М500", "createdAt": "2026-03-01T10:00:00.000Z" },
+  { "id": "w-7", "type": "receipt_metal", "vehicleNumber": "01KG222XY", "driver": "Поставщик металла", "weight": 18300, "date": "2026-03-03", "time": "10:01", "material": "арматура А500", "createdAt": "2026-03-03T10:01:00.000Z" },
+  { "id": "w-8", "type": "tare", "vehicleNumber": "B7777KG", "driver": "Неизвестно", "weight": 12510, "date": "2026-03-03", "time": "11:12", "orderId": null, "weigher": "А. Омур", "createdAt": "2026-03-03T11:12:00.000Z" },
+  { "id": "w-9", "type": "brutto", "vehicleNumber": "01KG888HH", "driver": "Омурзаков О.О.", "weight": 31200, "tare": 13100, "brutto": 31200, "netto": 18100, "date": "2026-03-03", "time": "11:44", "orderId": "ob-1", "weigher": "А. Омур", "createdAt": "2026-03-03T11:44:00.000Z" }
+]

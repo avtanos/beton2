@@ -1,0 +1,6 @@
+[
+  { "id": "r-1", "ttnId": "ttn-1", "clientId": "client-1", "clientName": "ОсОО Строй-Сити", "amount": 99000, "paidAmount": 99000, "date": "2026-03-03", "status": "paid", "createdAt": "2026-03-03T09:00:00.000Z" },
+  { "id": "r-2", "ttnId": "ttn-3", "clientId": "client-1", "clientName": "ОсОО Строй-Сити", "amount": 180000, "paidAmount": 90000, "date": "2026-03-01", "status": "partial", "createdAt": "2026-03-01T11:30:00.000Z" },
+  { "id": "r-3", "ttnId": null, "clientId": "client-2", "clientName": "ИП Аман", "amount": 612400, "paidAmount": 0, "date": "2026-03-03", "status": "pending", "createdAt": "2026-03-03T10:00:00.000Z" },
+  { "id": "r-4", "ttnId": null, "clientId": "client-3", "clientName": "ОАО КыргызАвтоДор", "amount": 215000, "paidAmount": 0, "date": "2026-03-02", "status": "pending", "createdAt": "2026-03-02T14:00:00.000Z" }
+]

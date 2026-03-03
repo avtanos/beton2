@@ -1,0 +1,7 @@
+[
+  { "id": "r1", "mark": "М100", "version": "1.0", "cement": 220, "sand": 750, "gravel": 1250, "water": 180, "createdAt": "2025-01-01T00:00:00.000Z" },
+  { "id": "r2", "mark": "М150", "version": "1.0", "cement": 250, "sand": 720, "gravel": 1220, "water": 175, "createdAt": "2025-01-01T00:00:00.000Z" },
+  { "id": "r3", "mark": "М200", "version": "1.0", "cement": 280, "sand": 700, "gravel": 1200, "water": 170, "createdAt": "2025-01-01T00:00:00.000Z" },
+  { "id": "r4", "mark": "М350", "version": "v2", "cement": 410, "sand": 620, "gravel": 1120, "water": 170, "components": "цемент 410 · песок 740 · щебень 1060 · вода 180 · добавка 0.8%", "createdAt": "2025-01-01T00:00:00.000Z" },
+  { "id": "r5", "mark": "М300", "version": "v4", "cement": 380, "sand": 650, "gravel": 1150, "water": 165, "components": "цемент 380 · песок 650 · щебень 1150 · вода 165", "createdAt": "2025-01-01T00:00:00.000Z" }
+]

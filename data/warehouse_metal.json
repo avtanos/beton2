@@ -1,0 +1,5 @@
+[
+  { "id": "wm-1", "type": "A500C", "diameter": 12, "weight": 6.2, "meters": 450, "batch": "MT-41", "certificate": "Сертификат №12345", "date": "2026-03-03", "documentRef": "ТТН-98", "location": "Склад-1", "createdAt": "2026-03-03T10:01:00.000Z" },
+  { "id": "wm-2", "type": "A400", "diameter": 10, "weight": 1.1, "meters": 520, "batch": "MT-39", "certificate": null, "date": "2026-02-25", "documentRef": "ТТН-95", "location": "Склад-2", "createdAt": "2026-02-25T10:00:00.000Z" },
+  { "id": "wm-3", "type": "A500C", "diameter": 14, "weight": 4.5, "meters": 320, "batch": "MT-40", "certificate": "Сертификат №12347", "date": "2026-02-28", "documentRef": "ТТН-96", "location": "Склад-1", "createdAt": "2026-02-28T11:30:00.000Z" }
+]

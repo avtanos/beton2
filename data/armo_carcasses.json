@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ac-1",
+    "type": "Каркас ФБС 24-6-6",
+    "size": "24-6-6",
+    "quantity": 10,
+    "weight": 45,
+    "date": "2026-03-02",
+    "shift": 1,
+    "createdBy": "Арматурщик 1",
+    "status": "ready",
+    "createdAt": "2026-03-02T12:00:00.000Z"
+  },
+  {
+    "id": "ac-2",
+    "type": "Сетка плиты ПК 63",
+    "size": "63-15-8",
+    "quantity": 5,
+    "weight": 120,
+    "date": "2026-03-02",
+    "shift": 2,
+    "createdBy": "Арматурщик 2",
+    "status": "ready",
+    "createdAt": "2026-03-02T16:00:00.000Z"
+  },
+  {
+    "id": "ac-3",
+    "type": "Каркас ФБС 12-6-6",
+    "size": "12-6-6",
+    "quantity": 20,
+    "weight": 28,
+    "date": "2026-03-01",
+    "shift": 1,
+    "createdBy": "Арматурщик 1",
+    "status": "ready",
+    "createdAt": "2026-03-01T11:00:00.000Z"
+  }
+]

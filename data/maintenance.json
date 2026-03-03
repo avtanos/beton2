@@ -1,0 +1,5 @@
+[
+  { "id": "mnt-1", "equipment": "crusher", "type": "planned", "description": "Замена подшипников", "date": "2026-03-01", "duration": 4, "downtime": 4, "performedBy": "Механик В.В.", "status": "completed", "createdAt": "2026-02-28T10:00:00.000Z" },
+  { "id": "mnt-2", "equipment": "rbu", "type": "planned", "description": "Проверка лопастей смесителя", "date": "2026-03-05", "duration": 2, "downtime": 0, "performedBy": null, "status": "planned", "createdAt": "2026-03-01T00:00:00.000Z" },
+  { "id": "mnt-3", "equipment": "scale", "type": "emergency", "description": "Калибровка весов", "date": "2026-03-02", "duration": 1, "downtime": 1, "performedBy": "Сервис", "status": "completed", "createdAt": "2026-03-02T08:00:00.000Z" }
+]

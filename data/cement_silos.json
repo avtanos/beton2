@@ -1,0 +1,4 @@
+{
+  "silo1": { "level": 78, "capacity": 100, "measuredAt": "2026-03-03T08:00:00.000Z", "daysToMin": 5 },
+  "silo2": { "level": 72, "capacity": 100, "measuredAt": "2026-03-03T08:00:00.000Z", "daysToMin": 4 }
+}

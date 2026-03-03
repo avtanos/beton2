@@ -1,0 +1,7 @@
+[
+  { "id": "rb-1", "mark": "М350", "volume": 9, "recipeId": "r4", "date": "2026-03-03", "time": "08:30", "orderId": "ob-1", "operatorId": "op-1", "operator": "Т. Бек", "destination": "external", "status": "closed", "createdAt": "2026-03-03T08:30:00.000Z" },
+  { "id": "rb-2", "mark": "М350", "volume": 9, "recipeId": "r4", "date": "2026-03-03", "time": "08:40", "orderId": "ob-1", "operatorId": "op-1", "operator": "Т. Бек", "destination": "external", "status": "closed", "createdAt": "2026-03-03T08:40:00.000Z" },
+  { "id": "rb-3", "mark": "М300", "volume": 9, "recipeId": "r5", "date": "2026-03-03", "time": "09:30", "orderId": "ob-2", "operatorId": "op-1", "operator": "Т. Бек", "destination": "external", "status": "closed", "createdAt": "2026-03-03T09:30:00.000Z" },
+  { "id": "rb-4", "mark": "М300", "volume": 9, "recipeId": "r5", "date": "2026-03-03", "time": "09:45", "orderId": "ob-2", "operatorId": "op-1", "operator": "Т. Бек", "destination": "external", "status": "transferred", "createdAt": "2026-03-03T09:45:00.000Z" },
+  { "id": "rb-5", "mark": "М250", "volume": 6, "recipeId": "r2", "date": "2026-03-02", "time": "14:30", "orderId": null, "operatorId": "op-1", "operator": "Т. Бек", "destination": "zbi", "status": "closed", "createdAt": "2026-03-02T14:30:00.000Z" }
+]

@@ -1,0 +1,5 @@
+[
+  { "id": "rr-1", "equipment": "РБУ-1", "priority": "high", "reason": "Течь гидравлики", "status": "open", "downtime": 2, "assignedTo": "Механик В.В.", "createdAt": "2026-03-03T09:00:00.000Z" },
+  { "id": "rr-2", "equipment": "Дробилка", "priority": "normal", "reason": "Замена фильтра", "status": "in_progress", "downtime": 0, "assignedTo": "Механик В.В.", "createdAt": "2026-03-02T14:00:00.000Z" },
+  { "id": "rr-3", "equipment": "Транспортёр", "priority": "low", "reason": "Скрип подшипника", "status": "closed", "downtime": 0, "assignedTo": "Механик В.В.", "createdAt": "2026-03-01T10:00:00.000Z" }
+]

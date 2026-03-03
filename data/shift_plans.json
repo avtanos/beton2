@@ -1,0 +1,5 @@
+[
+  { "id": "sp-1", "date": "2026-03-03", "shift": 1, "type": "rbu", "orders": ["ob-1", "ob-2", "ob-4"], "assignments": { "operator": "Т. Бек" }, "status": "active", "createdAt": "2026-03-02T18:00:00.000Z" },
+  { "id": "sp-2", "date": "2026-03-03", "shift": 1, "type": "zbi", "orders": ["oz-2"], "assignments": { "foreman": "Сидоров С.С." }, "status": "active", "createdAt": "2026-03-02T18:00:00.000Z" },
+  { "id": "sp-3", "date": "2026-03-03", "shift": 2, "type": "rbu", "orders": ["ob-3"], "assignments": {}, "status": "draft", "createdAt": "2026-03-03T10:00:00.000Z" }
+]

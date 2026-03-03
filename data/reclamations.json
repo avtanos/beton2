@@ -1,0 +1,5 @@
+[
+  { "id": "rec-1", "clientId": "client-2", "clientName": "ИП Аман", "orderId": "ob-old", "description": "Недобор прочности бетона на объекте", "date": "2026-02-20", "resolution": "replacement", "status": "resolved", "resolvedBy": "Технолог М.М.", "resolvedAt": "2026-02-22", "createdAt": "2026-02-20T14:00:00.000Z" },
+  { "id": "rec-2", "clientId": "client-1", "clientName": "ОсОО Строй-Сити", "orderId": "ob-1", "description": "Трещина в плите перекрытия", "date": "2026-03-01", "resolution": "replacement", "status": "open", "createdAt": "2026-03-01T11:00:00.000Z" },
+  { "id": "rec-3", "clientId": "client-4", "clientName": "ЖК Нурбулак", "orderId": "oz-2", "description": "Несоответствие марки бетона", "date": "2026-02-28", "resolution": "recalculation", "status": "review", "createdAt": "2026-02-28T09:00:00.000Z" }
+]

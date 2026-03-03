@@ -1,0 +1,5 @@
+[
+  { "id": "mm-1", "type": "issue", "materialType": "A500C", "weight": 0.84, "armoOrderId": "ac-1", "documentRef": "План JBI-21", "date": "2026-03-03", "status": "in_progress", "createdAt": "2026-03-03T10:00:00.000Z" },
+  { "id": "mm-2", "type": "scrap", "materialType": "A400", "weight": 0.12, "documentRef": "Обрезки", "date": "2026-03-02", "status": "completed", "createdAt": "2026-03-02T16:00:00.000Z" },
+  { "id": "mm-3", "type": "issue", "materialType": "A500C", "weight": 1.2, "armoOrderId": "ac-1", "documentRef": "Требование-15", "date": "2026-03-02", "createdAt": "2026-03-02T10:00:00.000Z" }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "tb-1",
+    "batchIds": ["rb-5"],
+    "volume": 4,
+    "mark": "М150",
+    "date": "2026-03-02",
+    "time": "14:35",
+    "zbiOrderId": "oz-2",
+    "createdAt": "2026-03-02T14:35:00.000Z"
+  }
+]

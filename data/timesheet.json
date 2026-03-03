@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ts-1",
+    "employeeName": "Петров П.П.",
+    "department": "РБУ",
+    "date": "2025-03-03",
+    "shift": 1,
+    "hours": 8,
+    "status": "present",
+    "output": "15 м³ бетона",
+    "createdAt": "2025-03-03T08:00:00.000Z"
+  },
+  {
+    "id": "ts-2",
+    "employeeName": "Сидоров С.С.",
+    "department": "ЖБ цех",
+    "date": "2025-03-03",
+    "shift": 1,
+    "hours": 8,
+    "status": "present",
+    "output": "10 ФБС",
+    "createdAt": "2025-03-03T08:00:00.000Z"
+  }
+]

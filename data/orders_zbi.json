@@ -1,0 +1,5 @@
+[
+  { "id": "oz-1", "clientId": "client-1", "clientName": "ОсОО Строй-Сити", "productType": "ФБС", "productSize": "24-6-6", "quantity": 50, "price": 180000, "source": "warehouse", "status": "confirmed", "paymentChecked": true, "createdAt": "2026-02-20T10:00:00.000Z", "scheduledDate": "2026-03-01" },
+  { "id": "oz-2", "clientId": "client-4", "clientName": "ЖК Нурбулак", "productType": "Плита перекрытия", "productSize": "ПК 60", "quantity": 30, "price": 210000, "source": "production", "status": "new", "paymentChecked": false, "createdAt": "2026-02-28T14:00:00.000Z", "scheduledDate": "2026-03-10" },
+  { "id": "oz-3", "clientId": "client-3", "clientName": "ОАО КыргызАвтоДор", "productType": "Блок ФБС", "productSize": "12-6-6", "quantity": 100, "price": 280000, "source": "production", "status": "new", "paymentChecked": true, "createdAt": "2026-03-02T09:00:00.000Z", "scheduledDate": "2026-03-06" }
+]

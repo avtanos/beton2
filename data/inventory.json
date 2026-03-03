@@ -1,0 +1,20 @@
+[
+  {
+    "id": "inv-1",
+    "warehouse": "metal",
+    "date": "2026-03-01",
+    "items": [{ "material": "A500 d12", "booked": 8.5, "actual": 9.0 }],
+    "discrepancies": [{ "material": "A500 d12", "diff": 0.5 }],
+    "status": "completed",
+    "createdAt": "2026-03-01T18:00:00.000Z"
+  },
+  {
+    "id": "inv-2",
+    "warehouse": "zbi",
+    "date": "2026-02-28",
+    "items": [],
+    "discrepancies": [],
+    "status": "completed",
+    "createdAt": "2026-02-28T17:00:00.000Z"
+  }
+]
