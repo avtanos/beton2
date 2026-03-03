@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { BrowserRouter, Routes, Route, NavLink } from 'react-router-dom';
+import { HashRouter, Routes, Route, NavLink } from 'react-router-dom';
 import { AuthProvider } from './context/AuthContext';
 import { ThemeProvider } from './context/ThemeContext';
 import Topbar from './components/Topbar';
@@ -50,7 +50,7 @@ function App() {
   return (
     <ThemeProvider>
     <AuthProvider>
-    <BrowserRouter>
+    <HashRouter>
       <div className="app">
         <div className={`sidebar-overlay ${sidebarOpen ? 'open' : ''}`} onClick={closeSidebar} aria-hidden="true" />
         <aside className={`sidebar ${sidebarOpen ? 'open' : ''}`} aria-label="Сайдбар">
@@ -96,7 +96,7 @@ function App() {
           </main>
         </div>
       </div>
-    </BrowserRouter>
+    </HashRouter>
     </AuthProvider>
     </ThemeProvider>
   );

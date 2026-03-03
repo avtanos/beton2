@@ -1,6 +1,15 @@
 const API = process.env.REACT_APP_API || '';
+const USE_STATIC = !API;
 
 async function request(path, options = {}) {
+  if (USE_STATIC) {
+    if (options.method && options.method !== 'GET') {
+      return Promise.reject(new Error('Запись отключена в демо-режиме'));
+    }
+    const { staticApi } = await import('./api-static');
+    const p = path.replace(/^\//, '');
+    return staticApi.request(p);
+  }
   const url = `${API}/api${path}`;
   let res;
   try {
